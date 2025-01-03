@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SaiRamchalla
+- 👋 Hi, I’m @SaiRamChalla
 - 👀 I’m interested in  JAVA FULLSTACK DEVELOPER
 - 🌱 I’m currently learning JAVA FULLSTACK
 - 💞️ I’m looking to collaborate on a SOFTWARE COMPANY
